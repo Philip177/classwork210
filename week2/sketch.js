@@ -5,7 +5,7 @@ function setup() {
 	noStroke();
     
     // main colors
-    var skinBase = color("aqua");
+    var skinBase = color("lightblue");
     var faceParts = color("green");
     
     // face dimensions
