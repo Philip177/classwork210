@@ -6,7 +6,7 @@ function setup() {
     fill("yellow");
     ellipse(300, 300, 500);
     
-    fill('orange');
+    fill('green');
     rect(175, 175, 50, 50);
     rect(275, 175, 50, 50);
     
