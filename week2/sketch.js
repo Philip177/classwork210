@@ -5,13 +5,15 @@ function setup() {
 	noStroke();
     
     // main colors
-
     var skinBase = color("lightblue");
-
     var faceParts = color("green");
-    
+        
     // face dimensions
-    var eyeSize = 25;
+    var eyeSize = 50;
+    
+    console.log("skin base", skinBase);
+    console.log("face parts", faceParts);
+    console.log("eye size", eyeSize);
 	
 	// head
 	fill(skinBase);
